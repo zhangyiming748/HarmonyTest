@@ -17,8 +17,10 @@
     "package": "com.example.myapplication",
     "name": ".MyApplication",
     "deviceType": [
-      "phone"
-    ],
+      "phone",
+      "tablet"
+     ],
+
     "distro": {
       "deliveryWithInstall": true,
       "moduleName": "entry",
